@@ -86,8 +86,8 @@ To deploy this project, please follow the below mentioned steps.
 Once you have followed all the mentioned steps inside the **Deployment** section, the following **simulation output** can be seen in the **Gazebo Classic Simulator** window.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="/home/pritam/Ros2_Workspaces/autonomous_maze_solving_turtlebot3/Thumbnail.png">
-    <source src="/home/pritam/Ros2_Workspaces/autonomous_maze_solving_turtlebot3/Gazebo_Sim_Recording.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true" poster="Thumbnail.png">
+    <source src="Gazebo_Sim_Recording.mp4" type="video/mp4">
   </video>
 </figure>
 
