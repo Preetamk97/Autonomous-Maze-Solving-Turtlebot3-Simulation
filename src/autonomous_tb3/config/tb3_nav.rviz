@@ -1,3 +1,5 @@
+# Base code has been taken from the official Github account of Robotis :: ROBOTIS-GIT/turtlebot3 ('humble-devel' branch)/turtlebot3_navigation2/rviz/tb3_navigation2.rviz :: and has been used in this project as it is without any modification.
+
 Panels:
   - Class: rviz_common/Displays
     Help Height: 0

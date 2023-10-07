@@ -14,6 +14,9 @@
 
 -- /* Author: Darby Lim */
 
+
+-- Base code has been taken from the official Github account of Robotis :: ROBOTIS-GIT/turtlebot3('humble-devel' branch)/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua :: and has been used in this project as it is without any modification.
+
 include "map_builder.lua"
 include "trajectory_builder.lua"
 

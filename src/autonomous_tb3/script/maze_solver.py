@@ -2,7 +2,7 @@
 
 # This node sets the initial starting position of our Turtlebot in the RViz2 map and also sets the goal point that the robot has to reach in the RViz2 map - and sets our robot in motion.
 
-# Base code copied from Github Repository :  ros-planning/navigation2 (humble branch)/nav2_simple_commander/nav2_simple_commander/example_nav_to_pose.py
+# Base code copied from the Official Github Account of ROS Planning :  ros-planning/navigation2 ('humble' branch)/nav2_simple_commander/nav2_simple_commander/example_nav_to_pose.py
 # Modified as per the current project needs.
 
 from geometry_msgs.msg import PoseStamped

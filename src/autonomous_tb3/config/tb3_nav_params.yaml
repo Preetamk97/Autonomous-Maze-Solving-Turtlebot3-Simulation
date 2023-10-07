@@ -1,3 +1,5 @@
+# Base code has been taken from the official Github account of Robotis :: ROBOTIS-GIT/turtlebot3 ('humble-devel' branch)/turtlebot3_navigation2/param/waffle.yaml :: and has been sligthly modified as per the current project requirements.
+
 amcl:
   ros__parameters:
     use_sim_time: False

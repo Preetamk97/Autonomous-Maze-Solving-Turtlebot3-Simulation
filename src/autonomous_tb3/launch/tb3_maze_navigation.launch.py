@@ -15,8 +15,9 @@
 # limitations under the License.
 #
 # Authors: Joep Tool
-# 
-#  The base code for this launch file has been copied from the following github repository : turtlebot3_simulations/turtlebot3_gazebo/launch/turtlebot3_world.launch.py  --- Modified by the myself (Pritam Rankan Kalita a.k.a preetamk97) as per my project requirements.
+
+
+# Base code has been taken from the official Github account of Robotis: ROBOTIS-GIT/turtlebot3_simulations ('humble-devel' Branch)/turtlebot3_gazebo/launch/turtlebot3_world.launch.py  --- Modified by the myself (Pritam Rankan Kalita a.k.a preetamk97) as per my project requirements.
 
 import os
 
